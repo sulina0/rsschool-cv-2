@@ -24,4 +24,4 @@ I work as a math teacher. It is important for me to constantly develop and grow,
 * Courses:
     + «JavaScript/Front-end. Stage 0»
 ## English
-Beginer
+Beginer.
