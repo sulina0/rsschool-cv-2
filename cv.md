@@ -13,12 +13,12 @@ I work as a math teacher. It is important for me to constantly develop and grow,
 ## Code Example
 
 > function sum(a, b) {
-  return a + b;
-}
-
-let result = sum(1, 2);
-alert( result );
+>  return a + b;
+>}
 >
+>let result = sum(1, 2);
+>alert( result );
+
 ## Experience
 ## Education
 * University: Togliatty State University, teacher of mathmatics and computer science
