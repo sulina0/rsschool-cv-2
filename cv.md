@@ -1,4 +1,3 @@
-# rssschool-cv
 # Anna Khlopenova
 ## Contacts
 * Location: Moscow, Russia
